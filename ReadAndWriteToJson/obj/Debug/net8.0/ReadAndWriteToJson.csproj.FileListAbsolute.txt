@@ -1,0 +1,14 @@
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/bin/Debug/net8.0/ReadAndWriteToJson
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/bin/Debug/net8.0/ReadAndWriteToJson.deps.json
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/bin/Debug/net8.0/ReadAndWriteToJson.runtimeconfig.json
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/bin/Debug/net8.0/ReadAndWriteToJson.dll
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/bin/Debug/net8.0/ReadAndWriteToJson.pdb
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/obj/Debug/net8.0/ReadAndWriteToJson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/obj/Debug/net8.0/ReadAndWriteToJson.AssemblyInfoInputs.cache
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/obj/Debug/net8.0/ReadAndWriteToJson.AssemblyInfo.cs
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/obj/Debug/net8.0/ReadAndWriteToJson.csproj.CoreCompileInputs.cache
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/obj/Debug/net8.0/ReadAndWriteToJson.dll
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/obj/Debug/net8.0/refint/ReadAndWriteToJson.dll
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/obj/Debug/net8.0/ReadAndWriteToJson.pdb
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/obj/Debug/net8.0/ReadAndWriteToJson.genruntimeconfig.cache
+/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/obj/Debug/net8.0/ref/ReadAndWriteToJson.dll

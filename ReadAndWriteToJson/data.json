@@ -1,0 +1,20 @@
+{
+    "students": [
+        {
+            "name": "Lars",
+            "single": true
+        },
+        {
+            "name": "Loukas",
+            "single": false
+        },
+        {
+            "name": "Elina",
+            "single": false
+        },
+        {
+            "name": "Maria",
+            "single": false
+        }
+    ]
+}
