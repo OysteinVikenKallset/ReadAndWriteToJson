@@ -8,24 +8,30 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/oysteinvikenkallset/.nuget/packages/": {}
+    "C:\\Users\\Øystein\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/ReadAndWriteToJson.csproj",
+      "projectUniqueName": "C:\\Programering\\learnC#and.Net\\CsharpProjects\\ReadAndWriteToJson\\ReadAndWriteToJson\\ReadAndWriteToJson\\ReadAndWriteToJson.csproj",
       "projectName": "ReadAndWriteToJson",
-      "projectPath": "/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/ReadAndWriteToJson.csproj",
-      "packagesPath": "/Users/oysteinvikenkallset/.nuget/packages/",
-      "outputPath": "/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/obj/",
+      "projectPath": "C:\\Programering\\learnC#and.Net\\CsharpProjects\\ReadAndWriteToJson\\ReadAndWriteToJson\\ReadAndWriteToJson\\ReadAndWriteToJson.csproj",
+      "packagesPath": "C:\\Users\\Øystein\\.nuget\\packages\\",
+      "outputPath": "C:\\Programering\\learnC#and.Net\\CsharpProjects\\ReadAndWriteToJson\\ReadAndWriteToJson\\ReadAndWriteToJson\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/oysteinvikenkallset/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Øystein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadAndWriteToJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+561bb3269e32bf63e388a8ec952da9d31e467023")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadAndWriteToJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadAndWriteToJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

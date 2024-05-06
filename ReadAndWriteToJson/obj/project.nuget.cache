@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pb8zjzJGhB8kdBdqyXnY6yPPL5PG9/Q6dr3na/gKJFWqYNLGsllVY32SbAiy3tSUwPOhH355/I+DNlcrsFgnbQ==",
+  "dgSpecHash": "1oW6P7fHy1v1kg/BjdLxYTuk2BpIVvzHyNI0kEYHRBt6YBMF4PzS+1r1D7Enc99hp7xjDAdPGUOnPxxOvAd/rg==",
   "success": true,
-  "projectFilePath": "/Users/oysteinvikenkallset/Programmering/C#/ReadAndWriteToJson/ReadAndWriteToJson/ReadAndWriteToJson.csproj",
+  "projectFilePath": "C:\\Programering\\learnC#and.Net\\CsharpProjects\\ReadAndWriteToJson\\ReadAndWriteToJson\\ReadAndWriteToJson\\ReadAndWriteToJson.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
