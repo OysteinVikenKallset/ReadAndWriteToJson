@@ -62,12 +62,18 @@ class Program
 
         Rabit rabit = new Rabit();
         Hawk hawk = new Hawk();
-        Fish fish = new Fish();
+        Fish fish = new Fish("Olaf");
         rabit.flee();
         hawk.hunt();
         fish.hunt();
         fish.flee();
 
+
+        fish.Speed = 20000000;
+        Console.WriteLine(fish.Speed);
+        Console.WriteLine(fish.Name);
+         fish.Rename("Odin");
+       Console.WriteLine(fish.Name);
 
     }
 
@@ -130,20 +136,50 @@ class Rabit : IPray
 
 class Hawk : IPredator
 {
-public void hunt(){
-    Console.WriteLine("The Hawk is hunting");
-}
+    public void hunt()
+    {
+        Console.WriteLine("The Hawk is hunting");
+    }
 
 }
 
 class Fish : IPredator, IPray
 {
+    private int speed = 100;
+    public string Name { get; private set; }
 
-public void hunt(){
-    Console.WriteLine("The fish is hunting");
+public void Rename(string newName){
+    Name = newName;
 }
+    public Fish(string Name)
+    {
+        this.Name = Name;
+    }
 
-public void flee(){
-    Console.WriteLine("The fish swims away");
-}
+    public void hunt()
+    {
+        Console.WriteLine("The fish is hunting");
+    }
+
+    public void flee()
+    {
+        Console.WriteLine("The fish swims away");
+    }
+
+    public int Speed
+    {
+        get { return speed; }
+        set
+        {
+            if (200 < value)
+            {
+                speed = 200;
+            }
+            else
+            {
+                speed = value;
+            }
+
+        }
+    }
 }
